@@ -1,0 +1,10 @@
+Type;Immatriculation;Marque;Modele;Prix;Km;Etat;Divers1;Divers2
+Voiture;AB-123-CD;BMW;Serie 3;25000;50000;Disponible;2;Oui
+Voiture;BC-234-DE;Audi;A4;27000;40000;Loué;2;Non
+Voiture;CD-345-EF;Mercedes;Classe C;30000;35000;En Maintenance;2;Non
+Moto;DE-456-FG;Yamaha;MT-07;7000;15000;Disponible;1;0
+CampingCar;EF-567-GH;Volkswagen;California;45000;60000;Loué;4;2
+
+Voiture;AB-123-CD;BMW;Serie 3;25000;50000;Disponible;2;Oui
+Moto;DE-456-FG;Yamaha;MT-07;7000;15000;Disponible;1;0
+Voiture;GT-485-ED;BMW;E46;120000;15000;Disponible;5;Oui
