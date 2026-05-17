@@ -1,0 +1,4 @@
+Type;Immatriculation;Marque;Modele;Prix;Km;Etat;Divers1;Divers2
+Voiture;AB-123-CD;BMW;Serie 3;25000;50000;Disponible;2;Oui
+Moto;DE-456-FG;Yamaha;MT-07;7000;15000;Disponible;1;0
+Voiture;GT-485-ED;BMW;E46;120000;15000;Disponible;5;Oui
